@@ -41,16 +41,6 @@ This tool is intended for system administrators, IT technicians, or power users 
 
 ---
 
-## ⚠️ Security Warning
-
-The password is stored **in plain text** in the Windows Registry at:
-
-    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
-
-This method is **insecure** and should **not** be used on systems containing sensitive data or connected to untrusted networks.
-
----
-
 ## Credits
 
 Created and maintained by [Nirus2000](https://github.com/Nirus2000)  
